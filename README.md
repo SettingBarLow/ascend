@@ -11,3 +11,5 @@ Files in this repo and their associated blog post that walks through what they d
 https://tiredsalesforceconsultant.wordpress.com/2026/10/04/set-constituent-organization-household-owner-to-prm-in-ascend/
 * Set Opportunity Owner to PRM at Creation.zip: Setting Opportunity Owner as PRM in ascend
 https://tiredsalesforceconsultant.wordpress.com/2026/10/04/setting-opportunity-owner-as-prm-in-ascend/
+* Set Session Operator to User in Creation Screen.zip: Set Session Operator to User in ascend
+https://tiredsalesforceconsultant.wordpress.com/2026/10/05/set-session-operator-to-user-in-ascend/
